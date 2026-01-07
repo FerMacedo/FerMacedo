@@ -1,12 +1,6 @@
-<h1 align="center">
-  👋 Olá, eu sou o Fernando Macedo
-</h1>
 
-<h3 align="center">
-  Desenvolvedor Full Stack 
-</h3>
+# 👋 Olá, eu sou o Fernando Macedo
 
----
 
 ## 🚀 Sobre mim
 
@@ -20,7 +14,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,10 +37,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FerMacedo&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMacedo&layout=compact&theme=tokyonight"/>
-</div>
----
