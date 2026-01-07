@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">
+  👋 Olá, eu sou o Fernando Macedo
+</h1>
 
-<!--
-**FerMacedo/FerMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Desenvolvedor Full Stack 
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+💻 Desenvolvedor **Full Stack**, com forte foco em **Frontend moderno**  
+⚛️ Especialista em **React**, **JavaScript** e **TypeScript**  
+🧠 Experiência com **lógica de negócios**, **SQL** e integração Front ↔ Back  
+📈 Sempre buscando evoluir para nível **Sênior**, com boas práticas e arquitetura  
+🔥 Apaixonado por aprender, criar projetos reais e escrever código limpo  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center" style="display: inline_block"><br>
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="CSharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+---
+
+## 📚 Conhecimentos na prática
+
+- ⚛️ React (Hooks, Context, Performance, Arquitetura)
+- 🌐 Consumo de APIs REST
+- 🗄️ Bancos de dados SQL
+- 🧩 Componentização e Design System
+- 🧠 Clean Code e boas práticas
+- 🚀 Git, versionamento e workflow profissional
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FerMacedo&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMacedo&layout=compact&theme=tokyonight"/>
+</div>
+---
